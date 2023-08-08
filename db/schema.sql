@@ -1,3 +1,4 @@
+-- creates department, role, and employee tables and work database
 drop database if exists work_db;
 
 create database work_db;

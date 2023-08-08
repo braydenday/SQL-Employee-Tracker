@@ -15,7 +15,7 @@ Employee tracker database created through mysql db and seeds to interact with yo
 - [Questions](#questions)
 
 ## Installation
-npm i then log into your mysql to source db/schema.sql and seeds.sql... after both those are done, you can run node index.js to start the command line application
+run npm i in the command line then you can run node index.js to start the employee tracker app
 
 ## Usage
 A command line application created to organize your work departments, employees, and roles!

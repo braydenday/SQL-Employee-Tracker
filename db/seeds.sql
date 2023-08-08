@@ -1,3 +1,4 @@
+-- seeds employee infromation into database tables
 insert into department (name)
 values ("human resources"),
 ("finance"),
