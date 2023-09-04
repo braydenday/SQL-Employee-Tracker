@@ -234,7 +234,7 @@ async function dbConnection(select) {
 // user prompt using inquirer to navigate the database
 async function userPrompt() {
   try {
-    const res = await prompt([
+    const res = await inquirer.prompt([
       {
         type: "list",
         name: "select",

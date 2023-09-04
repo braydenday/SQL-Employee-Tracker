@@ -18,9 +18,8 @@
   "homepage": "https://github.com/braydenday/SQL-Employee-Tracker#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "inquirer": "^9.2.10",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1",
     "mysql2": "^3.6.0"
   }
 }
-
-
