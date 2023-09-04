@@ -247,7 +247,6 @@ async function userPrompt() {
           "add role",
           "add employee",
           "update employee role",
-          "separator", // Use a unique string as a separator
           "quit",
         ],
       },
