@@ -20,7 +20,7 @@ run npm i in the command line then you can run node index.js to start the employ
 ## Usage
 A command line application created to organize your work departments, employees, and roles!
 
-![video-demo](https://drive.google.com/file/d/1EUnHfuFHRinOkhBlqhhn5m3Hg3RQ8MNM/view "Video Walk Through")
+https://drive.google.com/file/d/1EUnHfuFHRinOkhBlqhhn5m3Hg3RQ8MNM/view "Video Walk Through"
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
